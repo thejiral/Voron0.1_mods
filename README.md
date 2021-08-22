@@ -9,7 +9,7 @@ The modified foot is needed for mounting panel 3. Insert 2 heat inserts (same as
 Panels of type 1 and 2 are mounted the same way as the original blinds but do feature throughholes for the hex key. Panel 3 is mounted with 2 M3 6mm button head screws to the rear foot right modified. 
 
 
-*Contents*
+_Contents_
 
 2x Panel 1 (front panel, right side panel)
 
