@@ -2,6 +2,8 @@
 
 # Modified skirts for Voron 0.1
 
+I wanted to have skirts which fully enclose the PSU and everything else at the bottom of the V0.1, with more of a net look than the coarse honeycomb style in the original. At the same time air should still be able to circulate. 
+
 ![image1](https://github.com/thejiral/Voron0.1_mods/blob/main/IMG_20210821_091123%7E2.jpg)
 
 I created the honeycomb net of the skirts with Prusa slicer via infill options. The ready to print models can be be found in the 3mf file. 
