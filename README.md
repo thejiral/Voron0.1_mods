@@ -14,7 +14,7 @@ I created the honeycomb net of the skirts with Prusa slicer via infill options. 
 Alternatively the raw component stl files are included in the zip file as well. 
 
 The modified foot is needed for mounting panel 3. Insert 2 heat inserts (same as in the Voron 0.1 BOM). 
-Panels of type 1 and 2 are mounted the same way as the original blinds but do feature throughholes for the hex key. Panel 3 is mounted with 2 M3 6mm button head screws to the rear foot right modified. 
+Panels of type 1 and 2 are mounted the same way as the original blinds but do feature throughholes for the hex key. Panel 3 is mounted with 2 M3 6mm button head screws to the rear foot right modified. At the other side I fixed Panel 3 with a bit of VHB tape at the AC Inlet. 
 
 
 _Contents_
