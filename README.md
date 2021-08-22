@@ -4,7 +4,7 @@
 
 I wanted to have skirts which fully enclose the PSU and everything else at the bottom of the V0.1, with more of a net look than the coarse honeycomb style in the original. At the same time air should still be able to circulate. 
 
-![image1]()
+![image1](https://github.com/thejiral/Voron0.1_mods/blob/main/175742.png)
 
 ![image2](https://github.com/thejiral/Voron0.1_mods/blob/main/IMG_20210822_174009%7E2.jpg)
 
