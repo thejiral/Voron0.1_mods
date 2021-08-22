@@ -1,6 +1,6 @@
 # Voron0.1_mods
 
-# Modified bottom blinds for Voron 0.1
+# Modified skirts for Voron 0.1
 
 ![image1](https://github.com/thejiral/Voron0.1_mods/blob/main/IMG_20210821_091123%7E2.jpg)
 
