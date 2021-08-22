@@ -4,7 +4,7 @@
 
 ![image1](https://github.com/thejiral/Voron0.1_mods/blob/main/IMG_20210821_091123%7E2.jpg)
 
-I created the honeycomb net of the panels with Prusa slicer via infill options. The ready to print models can be be found in the 3mf file. 
+I created the honeycomb net of the skirts with Prusa slicer via infill options. The ready to print models can be be found in the 3mf file. 
 Alternatively the raw component stl files are included in the zip file as well. 
 
 The modified foot is needed for mounting panel 3. Insert 2 heat inserts (same as in the Voron 0.1 BOM). 
