@@ -15,6 +15,5 @@ Panels of type 1 and 2 are mounted the same way as the original blinds but do fe
 
 1x Panel 3 (back side panel)
 
-1x Modified Rear foot right side
-
+1x Modified Rear foot
 
