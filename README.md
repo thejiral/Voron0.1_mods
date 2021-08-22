@@ -1,6 +1,6 @@
 # Voron0.1_mods
 
-Modified bottom blinds for Voron 0.1
+# Modified bottom blinds for Voron 0.1
 
 I created the honeycomb net of the panels with Prusa slicer via infill options. The ready to print models can be be found in the 3mf file. 
 Alternatively the raw component stl files are included in the zip file as well. 
