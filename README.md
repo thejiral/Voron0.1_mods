@@ -57,3 +57,25 @@ A 2mm PDM ring with 10 mm width is applied all around the side of the top part o
 
 ![image6](https://github.com/thejiral/Voron0.1_mods/blob/main/carbon%20insert%20top%20with%20EPDM%20ring.png)
 
+
+In the first step of the assembly, the backplate is oriented witht the flat side down. The fans inserted with the metalic side up and the air exhaust showing to the grill of the backplate. The cables leavethe housing on the open side. 
+Apply sufficient plastic glue on all the top surfaces of the backplate. The main housing is oriented with the EPDM foam towards the fans and the "Voron" label is on the same side as the grill of the backplate. The EPD free parts of the main body should be flush with the glued side of the backbplate. Make sure that both parts are aligned well and seamlessly with each other and compress the EPDM foam with sufficient pressure. Put books or other heavy weights (1-2kg) to maintain that pressure and gapless contact of thet wo surfaces for at least 24h. 
+
+The assembled body can be mounted with the two screw holes to 2 nuts inserted into the bottom frame like this:
+
+![image6](https://github.com/thejiral/Voron0.1_mods/blob/main/Assembled%20airfilter%20without%20HEPA%20filter%20and%20AC%20cassette.png)
+
+By drilling a small holl just below airfilter, the cables can exit the chamber and be connected via WAGO clamps to continuing cables.The yellow cables are not needed and can be cut and isolated. Red (minus) and black (plus) are connected to the 5V converter of the VO.1 and the orange cable is transmitting the PWM signal and is connected to a hardware PWM pin on the Raspberry Pi (eg GPIO12 on a Raspberry Pi 3). (https://pinout.xyz/pinout/pwm#)
+
+The HEPA filter is removed from the clear plastic cassette it is sold in and is inserted into the airfilter body with the lash lookin outwards. 
+
+![image7](https://github.com/thejiral/Voron0.1_mods/blob/main/Airfilter%20assembled%20with%20HEPA%20filter%20inserted.png)
+
+The bottom of the cassette is filled flush with active carbon pellets and combined with the top part
+
+![image8](https://github.com/thejiral/Voron0.1_mods/blob/main/filled%20active%20carbon%20insert%20bottom.png)
+
+![image9](https://github.com/thejiral/Voron0.1_mods/blob/main/activated%20carbon%20cassette%20assembled.png)
+
+The casset is inserted into the airfilter body and the filter is ready for operation. If no PWM signal is provided the fans will run at full speed. If the PWM cables are connected to a Hardware PWM Pin of the Raspberry Pi it can be controlled among others with the Octoprint plugin "HardwarePWM" (set frequency to 23kHz). 
+ 
