@@ -43,5 +43,6 @@ Needed components:
 - Optional: WAGO clamps: 3x WAGO 221-613: https://www.reichelt.de/at/de/verbindungsklemme-6-mm-3-leiter-wago-221-613-p222123.html?&trstct=pol_19&nbc=1
 
 Printed parts from ABS or ABS+ (eg. TitanX)
-
+- Airfilter-V3.3mf
+- Aifilter-V3-partb.3mf
 
