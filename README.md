@@ -31,14 +31,14 @@ _Contents_
 # SEPA-rator: Voron 0.1 air filter (HEPA + refillable 50 g activated carbon cassette)
 
 Needed components:
-> 3x SEPA HY45T05A: https://www.reichelt.de/at/de/radial-luefter-45x45x5mm-5v-27db-5200u-min-gleitlager-sepa-hy45t05a-p291164.html?&nbc=1
-> 1x HEPA filter: replacment filter for xiaomi Robot Vacuum Cleaner STYJ02YM https://www.aliexpress.com/item/4000155770683.html?spm=a2g0o.9042311.0.0.7ae94c4daSGJuo
-> air purifier activated carbon pellets: https://www.luftundklima24.de/Aktivkohle-Pellets-Geruchsfilter-4-mm-1-kg-Luftfilter
+- 3x SEPA HY45T05A: https://www.reichelt.de/at/de/radial-luefter-45x45x5mm-5v-27db-5200u-min-gleitlager-sepa-hy45t05a-p291164.html?&nbc=1
+- 1x HEPA filter: replacment filter for xiaomi Robot Vacuum Cleaner STYJ02YM https://www.aliexpress.com/item/4000155770683.html?spm=a2g0o.9042311.0.0.7ae94c4daSGJuo
+- air purifier activated carbon pellets: https://www.luftundklima24.de/Aktivkohle-Pellets-Geruchsfilter-4-mm-1-kg-Luftfilter
   alternatively better but more expensive: Nevermore Printer Carbon: https://vonwange.com/product/nevermore-printer-carbon/
-> Plastic solvent glue like UHU Plast (https://www.uhu-profishop.de/klebstoffe/kunststoffklebstoffe/137/uhu-plast-spezial-polystyrol-abs-niedrigviskos-flasche-mit-feindosierspitze-30g) or RevelL Contacta Professional (https://www.3djake.com/revell/contacta-professional)
-> 2mm thick EPDM foam band 10 mm width: https://www.fugendichtband24.de/EPDM-Zellkautschuk-einseitig-selbstklebend-5m-Rolle-2mm-x-diverse-Breiten.htm
+- Plastic solvent glue like UHU Plast (https://www.uhu-profishop.de/klebstoffe/kunststoffklebstoffe/137/uhu-plast-spezial-polystyrol-abs-niedrigviskos-flasche-mit-feindosierspitze-30g) or RevelL Contacta Professional (https://www.3djake.com/revell/contacta-professional)
+- 2mm thick EPDM foam band 10 mm width: https://www.fugendichtband24.de/EPDM-Zellkautschuk-einseitig-selbstklebend-5m-Rolle-2mm-x-diverse-Breiten.htm
 Optionhal: 2mm thick EPDM foam mat for custom cutting: https://www.fugendichtband24.de/EPDM-Zellkautschuk-Matten-2mm-Staerke-einseitig-selbstklebend-diverse-Abmessungen.htm
-> 2x M3 nut
+- 2x M3 nut
 Optional: WAGO clamps: 3x WAGO 221-613: https://www.reichelt.de/at/de/verbindungsklemme-6-mm-3-leiter-wago-221-613-p222123.html?&trstct=pol_19&nbc=1
 
 Printed parts from ABS or ABS+ (eg. TitanX)
