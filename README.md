@@ -79,3 +79,4 @@ The bottom of the cassette is filled flush with active carbon pellets and combin
 
 The casset is inserted into the airfilter body and the filter is ready for operation. If no PWM signal is provided the fans will run at full speed. If the PWM cables are connected to a Hardware PWM Pin of the Raspberry Pi it can be controlled among others with the Octoprint plugin "HardwarePWM" (set frequency to 23kHz). 
  
+![image10](https://github.com/thejiral/Voron0.1_mods/blob/main/airfilter%20fully%20assembled.png)
