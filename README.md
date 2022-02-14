@@ -37,9 +37,9 @@ Needed components:
   alternatively better but more expensive: Nevermore Printer Carbon: https://vonwange.com/product/nevermore-printer-carbon/
 - Plastic solvent glue like UHU Plast (https://www.uhu-profishop.de/klebstoffe/kunststoffklebstoffe/137/uhu-plast-spezial-polystyrol-abs-niedrigviskos-flasche-mit-feindosierspitze-30g) or RevelL Contacta Professional (https://www.3djake.com/revell/contacta-professional)
 - 2mm thick EPDM foam band 10 mm width: https://www.fugendichtband24.de/EPDM-Zellkautschuk-einseitig-selbstklebend-5m-Rolle-2mm-x-diverse-Breiten.htm
-Optionhal: 2mm thick EPDM foam mat for custom cutting: https://www.fugendichtband24.de/EPDM-Zellkautschuk-Matten-2mm-Staerke-einseitig-selbstklebend-diverse-Abmessungen.htm
+- Optionhal: 2mm thick EPDM foam mat for custom cutting: https://www.fugendichtband24.de/EPDM-Zellkautschuk-Matten-2mm-Staerke-einseitig-selbstklebend-diverse-Abmessungen.htm
 - 2x M3 nut
-Optional: WAGO clamps: 3x WAGO 221-613: https://www.reichelt.de/at/de/verbindungsklemme-6-mm-3-leiter-wago-221-613-p222123.html?&trstct=pol_19&nbc=1
+- Optional: WAGO clamps: 3x WAGO 221-613: https://www.reichelt.de/at/de/verbindungsklemme-6-mm-3-leiter-wago-221-613-p222123.html?&trstct=pol_19&nbc=1
 
 Printed parts from ABS or ABS+ (eg. TitanX)
 
