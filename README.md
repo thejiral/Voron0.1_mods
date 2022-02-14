@@ -39,6 +39,7 @@ Needed components:
 - 2mm thick EPDM foam band 10 mm width: https://www.fugendichtband24.de/EPDM-Zellkautschuk-einseitig-selbstklebend-5m-Rolle-2mm-x-diverse-Breiten.htm
 - Optionhal: 2mm thick EPDM foam mat for custom cutting: https://www.fugendichtband24.de/EPDM-Zellkautschuk-Matten-2mm-Staerke-einseitig-selbstklebend-diverse-Abmessungen.htm
 - 2x M3 nut
+- 2x M3 6-8 mm screws
 - Optional: WAGO clamps: 3x WAGO 221-613: https://www.reichelt.de/at/de/verbindungsklemme-6-mm-3-leiter-wago-221-613-p222123.html?&trstct=pol_19&nbc=1
 
 Printed parts from ABS or ABS+ (eg. TitanX)
