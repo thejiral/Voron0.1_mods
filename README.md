@@ -45,7 +45,15 @@ Needed components:
 Printed parts from ABS or ABS+ (eg. TitanX)
 -SEPA-rator print files.zip (Airfilter-V3.3mf, Aifilter-V3-partb.3mf)
 
-!Assembly
+Assembly
 
+2 mm EPDM foam is applied in the areas shown below. These will hold the fans tight in place from both sides when housing is assembled. 
 
+![image4](https://github.com/thejiral/Voron0.1_mods/blob/main/Adding%20EPDM%20to%20backplate.png)
+
+![image5](https://github.com/thejiral/Voron0.1_mods/blob/main/Adding%20EPDM%20to%20mainpart.png)
+
+A 2mm PDM ring with 10 mm width is applied all around the side of the top part of the active carbon cassette as can be seen in the image below:
+
+![image6](https://github.com/thejiral/Voron0.1_mods/blob/main/carbon%20insert%20top%20with%20EPDM%20ring.png)
 
