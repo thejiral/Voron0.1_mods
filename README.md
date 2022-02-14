@@ -65,7 +65,7 @@ The assembled body can be mounted with the two screw holes to 2 nuts inserted in
 
 ![image6](https://github.com/thejiral/Voron0.1_mods/blob/main/Assembled%20airfilter%20without%20HEPA%20filter%20and%20AC%20cassette.png)
 
-By drilling a small holl just below airfilter, the cables can exit the chamber and be connected via WAGO clamps to continuing cables.The yellow cables are not needed and can be cut and isolated. Red (minus) and black (plus) are connected to the 5V converter of the VO.1 and the orange cable is transmitting the PWM signal and is connected to a hardware PWM pin on the Raspberry Pi (eg GPIO12 on a Raspberry Pi 3). (https://pinout.xyz/pinout/pwm#)
+By drilling a small hole just below airfilter, the cables can exit the chamber and be connected via WAGO clamps to continuing cables.The yellow cables are not needed and can be cut and isolated. Red (minus) and black (plus) are connected to the 5V converter of the VO.1 and the orange cable is transmitting the PWM signal and is connected to a hardware PWM pin on the Raspberry Pi (eg GPIO12 on a Raspberry Pi 3). (https://pinout.xyz/pinout/pwm#)
 
 The HEPA filter is removed from the clear plastic cassette it is sold in and is inserted into the airfilter body with the lash lookin outwards. 
 
