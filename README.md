@@ -61,7 +61,7 @@ A 2mm PDM ring with 10 mm width is applied all around the side of the top part o
 In the first step of the assembly, the backplate is oriented witht the flat side down. The fans inserted with the metalic side up and the air exhaust showing to the grill of the backplate. The cables leavethe housing on the open side. 
 Apply sufficient plastic glue on all the top surfaces of the backplate. The main housing is oriented with the EPDM foam towards the fans and the "Voron" label is on the same side as the grill of the backplate. The EPD free parts of the main body should be flush with the glued side of the backbplate. Make sure that both parts are aligned well and seamlessly with each other and compress the EPDM foam with sufficient pressure. Put books or other heavy weights (1-2kg) to maintain that pressure and gapless contact of thet wo surfaces for at least 24h. 
 
-The assembled body can be mounted with the two screw holes to 2 nuts inserted into the bottom frame like this:
+The assembled body can be mounted with the two screw holes to 2 nuts inserted into the bottom frame. Alternatively it can be mounted with VHB-tabe to the frame.
 
 ![image6](https://github.com/thejiral/Voron0.1_mods/blob/main/Assembled%20airfilter%20without%20HEPA%20filter%20and%20AC%20cassette.png)
 
