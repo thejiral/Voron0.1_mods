@@ -53,7 +53,7 @@ Assembly
 
 ![image5](https://github.com/thejiral/Voron0.1_mods/blob/main/Adding%20EPDM%20to%20mainpart.png)
 
-An EPDM ring with 10 mm width (thickness: 2 mm) is applied all around the side of the top part of the active carbon cassette as can be seen in the image below:
+An EPDM band with 10 mm width (thickness: 2 mm) is applied all around the side of the top part of the active carbon cassette as can be seen in the image below:
 
 ![image6](https://github.com/thejiral/Voron0.1_mods/blob/main/carbon%20insert%20top%20with%20EPDM%20ring.png)
 
