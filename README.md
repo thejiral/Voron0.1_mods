@@ -30,6 +30,8 @@ _Contents_
 
 # SEPA-rator: Voron 0.1 air filter (HEPA + refillable 50 g activated carbon cassette)
 
+![image11](https://github.com/thejiral/Voron0.1_mods/blob/main/overview.png)
+
 Needed components:
 - 3x SEPA HY45T05A: https://www.reichelt.de/at/de/radial-luefter-45x45x5mm-5v-27db-5200u-min-gleitlager-sepa-hy45t05a-p291164.html?&nbc=1
 - 1x HEPA filter: replacment filter for xiaomi Robot Vacuum Cleaner STYJ02YM https://www.aliexpress.com/item/4000155770683.html?spm=a2g0o.9042311.0.0.7ae94c4daSGJuo
@@ -63,7 +65,7 @@ Apply sufficient plastic glue on all the top surfaces of the backplate. The main
 
 The assembled body can be mounted with the two screw holes to 2 nuts inserted into the bottom frame. Alternatively it can be mounted with VHB-tabe to the frame.
 
-![image6](https://github.com/thejiral/Voron0.1_mods/blob/main/Assembled%20airfilter%20without%20HEPA%20filter%20and%20AC%20cassette.png)
+![image6](https://github.com/thejiral/Voron0.1_mods/blob/main/nofilters.png)
 
 By drilling a small hole just below airfilter, the cables can exit the chamber and be connected via WAGO clamps to continuing cables.The yellow cables are not needed and can be cut and isolated. Red (minus) and black (plus) are connected to the 5V converter of the VO.1 and the orange cable is transmitting the PWM signal and is connected to a hardware PWM pin on the Raspberry Pi (eg GPIO12 on a Raspberry Pi 3). (https://pinout.xyz/pinout/pwm#)
 
