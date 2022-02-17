@@ -28,7 +28,7 @@ _Contents_
 1x Modified Rear foot
 
 
-# SEPA-rator: Voron 0.1 air filter (HEPA + refillable 50 g activated carbon cassette)
+# SEPARATOR: Voron 0.1 air filter (HEPA + refillable 50 g activated carbon cassette)
 
 ![image11](https://github.com/thejiral/Voron0.1_mods/blob/main/overview.png)
 
