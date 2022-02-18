@@ -50,7 +50,7 @@ Printed parts from ABS or ABS+ (eg. TitanX)
 
 Assembly
 
-2 mm EPDM foam is applied in the areas shown below. These will hold the fans tight in place from both sides when housing is assembled. The EPDM foam should fit the fan tightly but not too tight so that the fan blade movement is obstructed. Apply one or more layer of insulating tape below the EPDM foam to fine tune the fit for the fan. 
+2 mm EPDM foam is applied in the areas shown below. The EPDM foam should hold the fans tightly in place from both sides when housing is assembled (test tolerances before glueing). The EPDM foam should fit the fan tightly but not too tight so that the fan blade movement is obstructed. Apply one or more layer of insulating tape below the EPDM foam to fine tune the fit for the fan. 
 
 ![image4](https://github.com/thejiral/Voron0.1_mods/blob/main/Adding%20EPDM%20to%20backplate.png)
 
